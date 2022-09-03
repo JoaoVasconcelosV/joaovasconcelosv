@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Vasconcelos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vasconcelos11/)](https://www.linkedin.com/in/joao-vasconcelos11/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaoyama2018@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoyama2018@gmail.com)](mailto:joaoyama2018@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Vasconcelos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=red&link=https://www.linkedin.com/in/joao-vasconcelos11/)](https://www.linkedin.com/in/joao-vasconcelos11/) 
+[![Gmail Badge](https://img.shields.io/badge/-joaoyama2018@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&color=blue&link=mailto:joaoyama2018@gmail.com)](mailto:joaoyama2018@gmail.com)
 
 My name is João, I'm studying computer science (💻). I like web development, mainly front-end. And I also really like mobile development.
 
